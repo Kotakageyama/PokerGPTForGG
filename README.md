@@ -20,7 +20,8 @@ PokerGPTForGGG is a fork of [PokerGPT](https://github.com/HarperJonesGPT/PokerGP
 
 1. Since this bot reads all of the data from the poker client window, you will need to setup the visuals excactly like in this image:
 2. Disable all animations for Pokerstars client in the table settings.
-   ![PokerTable2](https://github.com/HarperJonesGPT/PokerGPT/assets/154810617/ba0a7bc5-d2d1-4237-bfd8-015ca2ca14e9)
+   ![GGPokerView](https://github.com/Kotakageyama/PokerGPTForGG/assets/27982108/b3e803e8-63b2-4917-8334-34a5aca6002b)
+
 
 ## Usage
 
