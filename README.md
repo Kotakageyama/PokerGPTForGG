@@ -1,4 +1,6 @@
 # PokerGPTForGG - GPT4 poker bot for GGPoker
+> [!IMPORTANT]
+> This PR is WIP.
 
 PokerGPTForGGG is a fork of [PokerGPT](https://github.com/HarperJonesGPT/PokerGPT), supporting Only GGPoker.
 
